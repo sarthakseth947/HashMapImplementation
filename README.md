@@ -1,7 +1,7 @@
 # HashMapImplementation
 
 In this program you will use C++ linked lists to implement a data structure
-we have studied in this class: a hash table. The hash table is in a class
+we know, a hash table. The hash table is in a class
 called Table (what you know as a map). To make it more interesting, we're
 going to test our class in two different programs: one is a command-based test
 driver you will write (a program to maintain student names and scores), and the
