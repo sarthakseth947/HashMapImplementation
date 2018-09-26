@@ -38,7 +38,7 @@ statement in grades.cpp for you. See concord.cpp as an example of a completed Ta
 client program.
 
 
-#Compiling the program
+# Compiling the program
 
 For this PROGRAM the Makefile we wrote for you takes care of creating the necessary
 executables from the various source code files. The Makefile has comments that explain
